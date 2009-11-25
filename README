@@ -8,7 +8,7 @@ of the book, visit http://www.manning.com/mcanally/
 REQUIREMENT
 
 The examples in this book are written to run on Ruby 1.8.6, and many will also
-run no JRuby 1.1 or later.
+run on JRuby 1.1 or later.
 
 If you need help installing Ruby, Appendix A provides installation and setup
 instructions for Windows, OS X and Linux.  Appendix C deals specifically with
